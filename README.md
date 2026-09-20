@@ -1,6 +1,6 @@
 ### 💻 Maicon Casagranda
 
-Olá, me chamo Maicon Casagranda, tenho 26 anos e no Rio Grande do Sul. Estou Cursando Análise e Desenvolvimento de Sistemas (ADS) pela Universidade de Caxias do Sul (UCS). Atualmente estudando Node.js e Python e criando alguns projetos para praticar. 🚀
+Olá, me chamo Maicon Casagranda, tenho 26 anos e moro no Rio Grande do Sul. Estou Cursando Análise e Desenvolvimento de Sistemas (ADS) pela Universidade de Caxias do Sul (UCS). Atualmente estudando Node.js e Python e criando alguns projetos para praticar. 🚀
 
 <div> 
   <a href="https://instagram.com/maicon_casagranda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
