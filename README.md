@@ -26,6 +26,5 @@ Olá, me chamo Maicon Casagranda, tenho 26 anos e moro no Rio Grande do Sul. Est
 
  <div align="center">
    <a href="https://github.com/MaiconCasagrandaDev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiconCasagrandaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconCasagrandaDev&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconCasagrandaDev&layout=compact&langs_count=6&theme=tokyonight&card_width=550"/>
 </div>
