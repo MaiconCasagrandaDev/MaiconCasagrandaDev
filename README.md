@@ -52,5 +52,4 @@ Construo interfaces com **React e TypeScript** e APIs com **Node.js, Express, Pr
 
 <div align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaiconCasagrandaDev&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaiconCasagrandaDev&theme=tokyonight" alt="Linguagens por commits" />
 </div>
